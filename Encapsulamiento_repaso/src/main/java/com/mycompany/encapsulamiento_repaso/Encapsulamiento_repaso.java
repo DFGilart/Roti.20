@@ -9,7 +9,7 @@ public class Encapsulamiento_repaso {
         Arbol objeto_arbol = new Arbol();
         
         objeto_arbol.setHojas(100);
-        objeto_arbol.setTipo("caduca");
+        
         
         System.out.println(objeto_arbol.getTipo());
                 
